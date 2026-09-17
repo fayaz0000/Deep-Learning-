@@ -52,4 +52,4 @@ The system generates an `annotated_evaluation.jpg` file to provide visual proof 
 ## 👤 Author
 **Muhammad Fayaz**
 
-**Roll No:** 2023-SE-23  
+**Roll No:** **2023-SE-23**  
